@@ -5,4 +5,15 @@ h1, h2, h3 {
 li {
    font-family:"Dokdo";
 }
-
+input {
+   height: 15px;
+   width: 150px;
+   font-size: 14px;
+}
+label {
+   display: block;
+   margin-top: 15px;
+}
+button {
+   margin: 10px;
+}
