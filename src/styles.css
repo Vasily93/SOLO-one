@@ -1,6 +1,7 @@
 
 body {
-   align-text: center;
+   text-align: center;
+   background-color: rgb(204, 245, 231);
 }
 h1, h2, h3 {
    font-family:"Indie Flower";
@@ -20,4 +21,9 @@ label {
 button {
    margin: 10px;
 }
-
+.good {
+   color: green;
+}
+.bad {
+   color: red;
+}
