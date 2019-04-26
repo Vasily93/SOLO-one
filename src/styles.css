@@ -1,4 +1,7 @@
 
+body {
+   align-text: center;
+}
 h1, h2, h3 {
    font-family:"Indie Flower";
 }
@@ -17,3 +20,4 @@ label {
 button {
    margin: 10px;
 }
+
